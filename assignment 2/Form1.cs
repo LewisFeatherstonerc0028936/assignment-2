@@ -28,6 +28,7 @@ namespace assignment_2
         public Form1()
         {
             InitializeComponent();
+
         }
         //This is the section of code that calculates the velocity
         private void calculatevelocity()
